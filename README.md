@@ -1,11 +1,14 @@
 <h1 align="center">🌸 Olá, sou desenvolvedora Full Stack com alma Front-End 🌸</h1>
 
 <p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-FADADD?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-F7D6E0?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FCD6DE?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FBCFE8?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dispositivos%20Móveis-F9A8D4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-F9A8D4?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-F8B4D9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-FDCEE3?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -38,16 +41,6 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-FADADD?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-F7D6E0?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FCD6DE?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FBCFE8?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-F9A8D4?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-F8B4D9?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-FDCEE3?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 ---
@@ -73,3 +66,7 @@
 </div>
 
 ---
+
+<p align="center">
+  🌷 Obrigada por visitar meu GitHub! Cada linha de código é escrita com cuidado, criatividade e um toque de doçura. 🌷
+</p>
