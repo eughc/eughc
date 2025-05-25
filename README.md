@@ -6,7 +6,7 @@
     <td valign="top" style="padding-left: 20px;">
       <h1>CIAO! Eu sou <span style="color:#acdcbb;">Giovanna</span> 🌿</h1>
       <p style="font-size:16px;">
-        <em>Desenvolvedor Fullstack apaixonado por <span style="color:#acdcbb;">Front-end</span> 💚<br/>
+        <em>Desenvolvedora Fullstack apaixonado por <span style="color:#acdcbb;">Front-end</span> 💚<br/>
         Atualmente concluindo o curso técnico em <strong>Desenvolvimento de Sistemas</strong>, com previsão de término em 2025.<br/>
         Planejo iniciar minha graduação em 2026 para aprofundar ainda mais meus conhecimentos.</em>
       </p>
@@ -48,11 +48,8 @@ Em breve compartilharei meu **Trabalho de Conclusão de Curso (TCC)** e alguns p
   <a href="https://www.linkedin.com/in/seunome" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/LinkedIn-%23acdcbb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:seuemail@email.com" target="_blank" rel="noopener noreferrer" >
-    <img src="https://img.shields.io/badge/Email-%23acdcbb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a> &nbsp;&nbsp;
   <a href="https://github.com/seunome" target="_blank" rel="noopener noreferrer" >
-    <img src="https://img.shields.io/badge/GitHub-%23acdcbb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="[https://img.shields.io/badge/GitHub-%23acdcbb?style=for-the-badge&logo=github&logoColor=white](https://github.com/eughc)" alt="GitHub" />
   </a>
 </p>
 
