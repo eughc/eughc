@@ -33,23 +33,33 @@
 <br/>
 
 <!-- TCC -->
-<table align="center">
-  <tr>
-    <th colspan="2">📝 <strong>Meu TCC</strong></th>
-  </tr>
-  <tr>
-    <td><strong>Status</strong></td>
-    <td>Projeto em andamento</td>
-  </tr>
-  <tr>
-    <td><strong>Tema</strong></td>
-    <td>Sistema Web para Gestão de Estagiários</td>
-  </tr>
-  <tr>
-    <td><strong>Funcionalidades</strong></td>
-    <td>Frequência, Avaliações e Relatórios</td>
-  </tr>
-</table>
+    <!-- Coluna esquerda: Tabela do TCC -->
+    <td>
+
+      <table>
+        <tr>
+          <th colspan="2">📝 <strong>Meu TCC</strong></th>
+        </tr>
+        <tr>
+          <td><strong>Status</strong></td>
+          <td>Projeto em andamento</td>
+        </tr>
+        <tr>
+          <td><strong>Tema</strong></td>
+          <td>Sistema Web para Gestão de Estagiários</td>
+        </tr>
+        <tr>
+          <td><strong>Funcionalidades</strong></td>
+          <td>Frequência, Avaliações e Relatórios</td>
+        </tr>
+      </table>
+
+    </td>
+
+    <!-- Coluna direita: GIF -->
+    <td>
+      <img src="https://media.giphy.com/media/3o7aCVpHkRbquVnFug/giphy.gif" width="200" alt="GIF TCC">
+    </td>
 
 <br/><br/>
 
