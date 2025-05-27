@@ -11,17 +11,6 @@
 </p>
 
 ---
-    <!-- Coluna Estatísticas -->
-    <td width="50%" valign="top" align="center" style="padding-left: 20px;">
-      <h2>📊 Meus stats</h2>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eughc&show_icons=true&theme=default&title_color=6EB5E8&icon_color=6EB5E8&text_color=6EB5E8&bg_color=ffffff00&hide_border=true" alt="GitHub stats" />
-      <br><br>
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eughc&layout=compact&theme=default&title_color=6EB5E8&text_color=6EB5E8&bg_color=ffffff00&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seulink" target="_blank">
