@@ -33,10 +33,9 @@
 <br/>
 
 <!-- TCC -->
-**🎯 Tema:** Sistema Web para Gestão de Estagiários  
+**🎯 TCC: Sistema Web para Gestão de Estagiários -  Projeto em andamento** 
 **📌 Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
-**🚧 Status:** Projeto em andamento  
-**🔗 Link:** [Em breve](#) <!-- Substitua "#" pelo link do projeto quando estiver disponível -->
+**🔗 Link:** Em breve...(#) <!-- [Em breve] -->
 <br/><br/>
 
 <p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
