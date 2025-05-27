@@ -22,13 +22,13 @@
 <br/>
 
 <!-- Sobre mim -->
-<p align="center"><strong>🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI)</strong></p>
+<p ><strong>🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI)</strong></p>
 
-<p align="center">💻 Desenvolvedora Full Stack com foco em <strong>Front-End</strong>. Tenho conhecimentos sólidos em back-end, mas é no desenvolvimento de interfaces <strong>intuitivas, acessíveis e bonitas</strong> que me sinto mais realizada.</p>
+<p>💻 Desenvolvedora Full Stack com foco em <strong>Front-End</strong>. Tenho conhecimentos sólidos em back-end, mas é no desenvolvimento de interfaces <strong>intuitivas, acessíveis e bonitas</strong> que me sinto mais realizada.</p>
 
-<p align="center">💼 Atualmente sou <strong>Jovem Aprendiz</strong> em uma empresa — oportunidade conquistada com o apoio e recomendação dos meus professores.</p>
+<p ">💼 Atualmente sou <strong>Jovem Aprendiz</strong> em uma empresa — oportunidade conquistada com o apoio e recomendação dos meus professores.</p>
 
-<p align="center">🧠 Em constante evolução...</p>
+<p >🧠 Em constante evolução...</p>
 
 <br/>
 
