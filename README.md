@@ -28,8 +28,12 @@
 <p ">💼 Atualmente sou <strong>Jovem Aprendiz</strong> em uma empresa — oportunidade conquistada com o apoio e recomendação dos meus professores.</p>
 <p >🧠 Em constante evolução...</p>
 
+**📝 Meu TCC (Trabalho de Conclusão de Curso) – SENAI**  
+**Projeto:** Sistema Web para Gestão de Estagiários – *em andamento*  
+**Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
+**Link:** Em breve...
 
-
+<br><br><br>
 
 <p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
 <p align="center"><i>"During your life, never stop dreaming. No one can take away your dreams." — <strong>Tupac Shakur</strong></i></p>
