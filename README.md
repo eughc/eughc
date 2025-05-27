@@ -33,34 +33,10 @@
 <br/>
 
 <!-- TCC -->
-    <!-- Coluna esquerda: Tabela do TCC -->
-    <td>
-
-      <table>
-        <tr>
-          <th colspan="2">📝 <strong>Meu TCC</strong></th>
-        </tr>
-        <tr>
-          <td><strong>Status</strong></td>
-          <td>Projeto em andamento</td>
-        </tr>
-        <tr>
-          <td><strong>Tema</strong></td>
-          <td>Sistema Web para Gestão de Estagiários</td>
-        </tr>
-        <tr>
-          <td><strong>Funcionalidades</strong></td>
-          <td>Frequência, Avaliações e Relatórios</td>
-        </tr>
-      </table>
-
-    </td>
-
-    <!-- Coluna direita: GIF -->
-    <td>
-      <img src="https://media.giphy.com/media/3o7aCVpHkRbquVnFug/giphy.gif" width="200" alt="GIF TCC">
-    </td>
-
+**🎯 Tema:** Sistema Web para Gestão de Estagiários  
+**📌 Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
+**🚧 Status:** Projeto em andamento  
+**🔗 Link:** [Em breve](#) <!-- Substitua "#" pelo link do projeto quando estiver disponível -->
 <br/><br/>
 
 <p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
