@@ -13,5 +13,5 @@
   <img src="https://img.shields.io/badge/Figma-92CCF3?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 <p align="center"><i>🌊✨ “During your life, never stop dreaming. No one can take away your dreams.” – <strong>Tupac Shakur</strong> ✨🌊</i></p>
----
+--- ----
 <p align="center"><i>🫧 Obrigada por passar por aqui. Que seus sonhos se desfrutem, se espalhem e floresçam. 🫧</i></p>
