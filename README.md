@@ -1,4 +1,4 @@
-<h1 align="center">🦋 Desenvolvedora Full Stack com alma de artista 🦋</h1>
+<h1 align="center">🦋**Giovanna** Desenvolvedora Full Stack  🦋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-CDE8F6?style=for-the-badge&logo=html5&logoColor=white" />
@@ -64,5 +64,5 @@
 <p align="center">
 🌊✨ *“During your life, never stop dreaming. No one can take away your dreams.”* – **Tupac Shakur** ✨🌊  
 <br><br>
-🫧 *Obrigada por passar por aqui. Que seu caminho na vida e no código seja leve como as ondas e bonito como um pôr do sol azul pastel.* 🫧  
+🫧 *Obrigada por passar por aqui. Q Que seus sonhos se desfrutem, se espalhem e floresçam.* 🫧  
 </p>
