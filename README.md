@@ -26,6 +26,7 @@
 
 <p> 🧠 Em constante evolução... </p>  
 
+<br>
 📝 **Meu TCC:** Projeto em andamento... <!-- (https://link-do-projeto.com) --> — **Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios**
 
 
