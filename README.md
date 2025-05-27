@@ -1,67 +1,68 @@
-<h1 align="center">🌸 Desenvolvedora Full Stack com alma Front-End 🌸</h1>
+<h1 align="center">🦋 Desenvolvedora Full Stack com alma de artista 🦋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FADADD?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-F7D6E0?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FCD6DE?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FBCFE8?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-F9A8D4?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-F8B4D9?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-FDCEE3?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-CDE8F6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-BEE3F8?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-A7D8F0?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-9BD3F4?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-81C8F2?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-6EB5E8?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-92CCF3?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 💖 Sobre mim
+## 🌊 Sobre mim
 
-✨ Apaixonada por transformar ideias em interfaces encantadoras.  
-🎨 Desenvolvedora **Full Stack**, mas o Front-End mora no meu coração.  
-📚 Estudante de **Desenvolvimento de Sistemas**, sempre explorando, criando e aprendendo.
-
----
-
-## 🌱 Caminhada
-
-- 🎓 Técnico em Desenvolvimento de Sistemas (conclusão em breve)  
-- 🚀 Estagiando em desenvolvimento web e mobile  
-- 💡 Projetos autorais em construção  
+✨ Oi! Sou uma desenvolvedora **Full Stack** que ama transformar códigos em experiências visuais bonitas, leves e funcionais.  
+🌱 Apaixonada pelo mundo do Front-End, design e tecnologia.  
+📚 Atualmente curso **Desenvolvimento de Sistemas** e trabalho como estagiária na área de tecnologia.  
+🌸 Meu objetivo? Criar soluções que sejam tão funcionais quanto encantadoras.
 
 ---
 
-## 🚀 Projetos
+## 🌱 Minha Jornada
+
+- 🎓 Técnica em **Desenvolvimento de Sistemas** (conclusão em breve)  
+- 💻 Estagiando como desenvolvedora web e mobile  
+- 🚀 Criando projetos que unem criatividade e tecnologia
+
+---
+
+## ✨ Projetos em construção
 
 | Projeto                     | Tecnologias               | Status     |
 |-----------------------------|---------------------------|------------|
 | Sistema de Controle         | Python + SQLite           | Em breve   |
-| Aplicativo de Agendamentos  | React Native              | Em breve   |
+| App de Agendamentos         | React Native              | Em breve   |
 | Landing Page Encantadora    | HTML + CSS + JS           | Em breve   |
 
 ---
 
-## 🌸 GitHub
+## 📊 Meus stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eughc&show_icons=true&theme=default&title_color=F28CA9&icon_color=F28CA9&text_color=F28CA9&bg_color=ffffff00&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eughc&layout=compact&theme=default&title_color=F28CA9&text_color=F28CA9&bg_color=ffffff00&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eughc&show_icons=true&theme=default&title_color=6EB5E8&icon_color=6EB5E8&text_color=6EB5E8&bg_color=ffffff00&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eughc&layout=compact&theme=default&title_color=6EB5E8&text_color=6EB5E8&bg_color=ffffff00&hide_border=true"/>
 </p>
 
 ---
 
-## 📬 Vamos conversar!
+## 📬 Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/seulink" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FADADD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-CDE8F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/E--mail-F7D6E0?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-BEE3F8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  🌊✨ *"During your life, never stop dreaming. No one can take away your dreams."* – **Tupac Shakur** ✨🌊  
-  <br>  
-  🍥 *Obrigada por estar aqui. Que seu dia seja tão leve quanto as ondas do mar e tão doce quanto um filme do Studio Ghibli.* 🍥  
+🌊✨ *“During your life, never stop dreaming. No one can take away your dreams.”* – **Tupac Shakur** ✨🌊  
+<br><br>
+🫧 *Obrigada por passar por aqui. Que seu caminho na vida e no código seja leve como as ondas e bonito como um pôr do sol azul pastel.* 🫧  
 </p>
