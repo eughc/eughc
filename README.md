@@ -24,7 +24,7 @@
 <p "> 💻 Desenvolvedora Full Stack com foco em Front-End. Tenho conhecimentos sólidos em tecnologias de back-end, mas é no desenvolvimento de interfaces intuitivas, acessíveis e bonitas que me sinto mais realizada.  </p>  
 <p> 🧠 Em constante evolução... </p>  
 
-📝 **Meu TCC:** [Projeto em andamento](https://link-do-projeto.com) — **Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios**
+📝 **Meu TCC:** Projeto em andamento...(https://link-do-projeto.com) — **Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios**
 
 
 
