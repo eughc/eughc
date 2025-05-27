@@ -33,10 +33,9 @@
 <br/>
 
 <!-- TCC -->
-**🎯 TCC: Sistema Web para Gestão de Estagiários -  Projeto em andamento** <br>
+**🎯 Projeto:** Sistema Web para Gestão de Estagiários – *em andamento*  
 **📌 Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
-**🔗 Link:** Em breve...(#) <!-- [Em breve] -->
-<br/><br/>
+**🔗 Link:** Em breve...
 
 <p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
 <p align="center"><i>"During your life, never stop dreaming. No one can take away your dreams." — <strong>Tupac Shakur</strong></i></p>
