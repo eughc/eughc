@@ -14,9 +14,9 @@
 
 ## 🌊 Sobre mim
 
-✨ Oi! Sou uma desenvolvedora **Full Stack** que ama transformar códigos em experiências visuais bonitas, leves e funcionais.  
+✨ Oi! Sou uma desenvolvedora Giovanna **Full Stack** que ama transformar códigos em experiências visuais bonitas, leves e funcionais.  
 🌱 Apaixonada pelo mundo do Front-End, design e tecnologia.  
-📚 Atualmente curso **Desenvolvimento de Sistemas** e trabalho como estagiária na área de tecnologia.  
+📚 Atualmente curso **Desenvolvimento de Sistemas**.  
 🌸 Meu objetivo? Criar soluções que sejam tão funcionais quanto encantadoras.
 
 ---
@@ -24,8 +24,8 @@
 ## 🌱 Minha Jornada
 
 - 🎓 Técnica em **Desenvolvimento de Sistemas** (conclusão em breve)  
-- 💻 Estagiando como desenvolvedora web e mobile  
-- 🚀 Criando projetos que unem criatividade e tecnologia
+- 💻 Estagiando como jovem aprendiz.  
+- 🚀 Criando projetos que unem criatividade e tecnologia.
 
 ---
 
