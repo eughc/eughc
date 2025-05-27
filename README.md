@@ -1,4 +1,8 @@
-<h1 align="center">Giovanna | Desenvolvedora Full Stack | 17y</h1>
+<h1 align="center">✨ Giovanna | Desenvolvedora Full Stack | 17y ✨</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-CDE8F6?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,9 +27,6 @@
 
 ---
 
-<p align="center" style="font-style: italic; color: #6EB5E8;">
-🌊✨ “During your life, never stop dreaming. No one can take away your dreams.” – <strong>Tupac Shakur</strong> ✨🌊  
-</p>
-<p align="center" style="font-style: italic;">
-🫧 Obrigada por passar por aqui. Que seus sonhos se desfrutem, se espalhem e floresçam. 🫧  
-</p>
+<p align="center"><i>🌊✨ “During your life, never stop dreaming. No one can take away your dreams.” – <strong>Tupac Shakur</strong> ✨🌊</i></p>
+
+<p align="center"><i>🫧 Obrigada por passar por aqui. Que seus sonhos se desfrutem, se espalhem e floresçam. 🫧</i></p>
