@@ -33,10 +33,23 @@
 <br/>
 
 <!-- TCC -->
-<p align="center">
-  📝 <strong>Meu TCC:</strong> Projeto em andamento...<br/>
-  <em><strong>Sistema Web para Gestão de Estagiários:</strong> Frequência, Avaliações e Relatórios</em>
-</p>
+<table align="center">
+  <tr>
+    <th colspan="2">📝 <strong>Meu TCC</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Status</strong></td>
+    <td>Projeto em andamento</td>
+  </tr>
+  <tr>
+    <td><strong>Tema</strong></td>
+    <td>Sistema Web para Gestão de Estagiários</td>
+  </tr>
+  <tr>
+    <td><strong>Funcionalidades</strong></td>
+    <td>Frequência, Avaliações e Relatórios</td>
+  </tr>
+</table>
 
 <br/><br/>
 
