@@ -33,7 +33,7 @@
 **Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
 **Link:** Em breve...
 
-<br><br><br>
+<br><br>
 
 <p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
 <p align="center"><i>"During your life, never stop dreaming. No one can take away your dreams." — <strong>Tupac Shakur</strong></i></p>
