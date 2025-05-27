@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Coding GIF" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-CDE8F6?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-BEE3F8?style=for-the-badge&logo=css3&logoColor=white" />
@@ -14,7 +13,7 @@
   <img src="https://img.shields.io/badge/Figma-92CCF3?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<p onde me encontrar align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/seulink" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-CDE8F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
