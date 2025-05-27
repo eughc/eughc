@@ -1,35 +1,44 @@
-<h1 align="center"><i> Giovanna | Desenvolvedora Full Stack | 17y <i></h1>
+<h1 align="center">
+  <i>Giovanna | Desenvolvedora Full Stack | 17 anos</i>
+</h1>
+
 <br/>
 
-<!-- Tecnologias com apenas ícones -->
+<!-- Tecnologias com ícones -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Mobile" />
-<img src="https://img.icons8.com/color/48/000000/expo.png" width="40" alt="Expo" />
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Android" title="Android" />
+  <img src="https://img.icons8.com/color/48/000000/expo.png" width="40" alt="Expo" title="Expo" />
 </p>
 
 <br/>
-  
-  <strong > 🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI) </strong>  
-<p "> 💻 Desenvolvedora Full Stack com foco em Front-End. Tenho conhecimentos sólidos em tecnologias de back-end, mas é no desenvolvimento de interfaces intuitivas, acessíveis e bonitas que me sinto mais realizada.  </p>  
-<p>💼 Atualmente sou Jovem Aprendiz em uma empresa, uma oportunidade que consegui graças à recomendação dos meus professores.</p>
 
-<p> 🧠 Em constante evolução... </p>  
+<!-- Sobre mim -->
+<p align="center"><strong>🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI)</strong></p>
 
-<br>
-📝 **Meu TCC:** Projeto em andamento... <!-- (https://link-do-projeto.com) --> — **Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios**
+<p align="center">💻 Desenvolvedora Full Stack com foco em <strong>Front-End</strong>. Tenho conhecimentos sólidos em back-end, mas é no desenvolvimento de interfaces <strong>intuitivas, acessíveis e bonitas</strong> que me sinto mais realizada.</p>
 
-<br> 
-<br>
-<p ><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
-<p ><i>"During your life, never stop dreaming. No one can take away your dreams."- **Tupac Shakur**</i></p>
+<p align="center">💼 Atualmente sou <strong>Jovem Aprendiz</strong> em uma empresa — oportunidade conquistada com o apoio e recomendação dos meus professores.</p>
+
+<p align="center">🧠 Em constante evolução...</p>
+
+<br/>
+
+<!-- TCC -->
+<p align="center">
+  📝 <strong>Meu TCC:</strong> Projeto em andamento...<br/>
+  <em><strong>Sistema Web para Gestão de Estagiários:</strong> Frequência, Avaliações e Relatórios</em>
+</p>
+
+<br/><br/>
+
+<p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
+<p align="center"><i>"During your life, never stop dreaming. No one can take away your dreams." — <strong>Tupac Shakur</strong></i></p>
