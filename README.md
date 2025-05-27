@@ -16,6 +16,6 @@
   📝 <strong>Meu TCC:</strong>  
   <em>[Espaço reservado para link do projeto que está em andamento...]</em>  
 <p><i>✨ “During your life, never stop dreaming. No one can take away your dreams.” – <strong>Tupac Shakur</strong> </i></p>
-
+---
 
 <p align="center"><i>🫧 Obrigada por passar por aqui. Que seus sonhos se desfrutem, se espalhem e floresçam. 🫧</i></p>
