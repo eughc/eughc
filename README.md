@@ -1,7 +1,7 @@
 <h1 align="center"><i> Giovanna | Desenvolvedora Full Stack | 17y <i></h1>
 <strong align="center"> 🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI) </strong>  
-<strong align="center"> 💻 Desenvolvedora Full Stack com foco em Front-End. Tenho conhecimentos sólidos em tecnologias de back-end, mas é no desenvolvimento de interfaces intuitivas, acessíveis e bonitas que me sinto mais realizada.  </strong>  
-<strong align="center"> 🧠 Em constante evolução... </strong>  
+<p align="center"> 💻 Desenvolvedora Full Stack com foco em Front-End. Tenho conhecimentos sólidos em tecnologias de back-end, mas é no desenvolvimento de interfaces intuitivas, acessíveis e bonitas que me sinto mais realizada.  </p>  
+<p align="center"> 🧠 Em constante evolução... </p>  
 
   📝 <strong>Meu TCC:</strong>  
   <em>[Espaço reservado para link do projeto]</em>  
