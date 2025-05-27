@@ -1,5 +1,5 @@
 <h1 align="center">
-  <i>Giovanna | Desenvolvedora Full Stack | 17 anos</i>
+  <i>Giovanna | Desenvolvedora Full Stacks</i>
 </h1>
 
 <br/>
@@ -22,14 +22,13 @@
 <br/>
 
 <!-- Sobre mim -->
-<p ><strong>🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI)</strong></p>
+<p ><strong>🎓 Cursando o último ano de Desenvolvimento de Sistemas</strong></p>
 <p>🌍 Aprendendo <strong>espanhol</strong>, <strong>italiano</strong> e <strong>inglês</strong>.<p>
 <p>💻 Desenvolvedora Full Stack com ênfase em <strong>Front-End</strong>. Embora possua uma base sólida em tecnologias de back-end, é na criação de interfaces <strong>intuitivas, acessíveis e visualmente atrativas</strong> que encontro minha maior realização profissional.</p>
-<p ">💼 Atualmente sou <strong>Jovem Aprendiz</strong> em uma empresa — oportunidade conquistada com o apoio e recomendação dos meus professores.</p>
 <p >🧠 Em constante evolução...</p>
 
-**📝 Meu TCC (Trabalho de Conclusão de Curso) – SENAI**  
-**Projeto:** Sistema Web para Gestão de Estagiários – *em andamento*  
+**📝 Meu TCC (Trabalho de Conclusão de Curso)**  
+**Projeto:** Sistema Web para Gestão – *em andamento*  
 **Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
 **Link:** Em breve...
 
