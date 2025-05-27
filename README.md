@@ -4,8 +4,8 @@
 <p> 🧠 Em constante evolução... </p>  
 
   📝 <strong>Meu TCC:</strong>  
-  <em>[Espaço reservado para link do projeto]</em>  
-<p><i>✨ “During your life, never stop dreaming. No one can take away your dreams.” – <strong>Tupac Shakur</strong> ✨🌊</i></p>
+  <em>[Espaço reservado para link do projeto que está em andamento...]</em>  
+<p><i>✨ “During your life, never stop dreaming. No one can take away your dreams.” – <strong>Tupac Shakur</strong> </i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-CDE8F6?style=for-the-badge&logo=html5&logoColor=white" />
