@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Figma-92CCF3?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<p align="center">
+<p onde me encontrar align="center">
   <a href="https://www.linkedin.com/in/seulink" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-CDE8F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
