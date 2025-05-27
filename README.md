@@ -24,7 +24,8 @@
 <!-- Sobre mim -->
 <p ><strong>🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI)</strong></p>
 
-<p>💻 Desenvolvedora Full Stack com foco em <strong>Front-End</strong>. Tenho conhecimentos sólidos em back-end, mas é no desenvolvimento de interfaces <strong>intuitivas, acessíveis e bonitas</strong> que me sinto mais realizada.</p>
+<p>💻 Desenvolvedora Full Stack com ênfase em <strong>Front-End</strong>. Embora possua uma base sólida em tecnologias de back-end, é na criação de interfaces <strong>intuitivas, acessíveis e visualmente atrativas</strong> que encontro minha maior realização profissional.</p>
+
 
 <p ">💼 Atualmente sou <strong>Jovem Aprendiz</strong> em uma empresa — oportunidade conquistada com o apoio e recomendação dos meus professores.</p>
 
