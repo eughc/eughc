@@ -26,7 +26,7 @@
 
   📝 <strong>Meu TCC:</strong>  
 
-  <em>[Espaço reservado para link do projeto que está em andamento...]</em>    <p>Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios</p>
+  <em>[Espaço reservado para link do projeto que está em andamento...] <p>Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios</p> </em>    
 <p align="center"><i>✨ “During your life, never stop dreaming. No one can take away your dreams.” – <strong>Tupac Shakur</strong> </i></p>
 
 
