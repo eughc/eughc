@@ -13,6 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Mobile" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Expo_Logo_2018.svg" width="40" alt="Expo" />
+
 </p>
 
 <br/>
