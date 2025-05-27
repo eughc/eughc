@@ -33,7 +33,7 @@
 <br/>
 
 <!-- TCC -->
-**🎯 TCC: Sistema Web para Gestão de Estagiários -  Projeto em andamento** 
+**🎯 TCC: Sistema Web para Gestão de Estagiários -  Projeto em andamento** <br>
 **📌 Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
 **🔗 Link:** Em breve...(#) <!-- [Em breve] -->
 <br/><br/>
