@@ -42,10 +42,9 @@
 
 ## 📊 Meus stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eughc&show_icons=true&theme=default&title_color=6EB5E8&icon_color=6EB5E8&text_color=6EB5E8&bg_color=ffffff00&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eughc&layout=compact&theme=default&title_color=6EB5E8&text_color=6EB5E8&bg_color=ffffff00&hide_border=true"/>
-</p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eughc&show_icons=true&theme=default&title_color=6EB5E8&icon_color=6EB5E8&text_color=6EB5E8&bg_color=ffffff00&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eughc&layout=compact&theme=default&title_color=6EB5E8&text_color=6EB5E8&bg_color=ffffff00&hide_border=true"/>
 
 ---
 
