@@ -29,6 +29,7 @@
 <br>
 📝 **Meu TCC:** Projeto em andamento... <!-- (https://link-do-projeto.com) --> — **Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios**
 
-
-
-<p ><i>🫧 Obrigada por passar por aqui. Que seus sonhos se desfrutem, se espalhem e floresçam. 🫧</i></p>
+<br> 
+<br>
+<p ><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
+<p ><i>"During your life, never stop dreaming. No one can take away your dreams."- **Tupac Shakur**</i></p>
