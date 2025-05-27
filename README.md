@@ -11,42 +11,6 @@
 </p>
 
 ---
-
-<table>
-  <tr>
-    <!-- Coluna Sobre Mim -->
-    <td width="50%" valign="top" style="padding-right: 20px; border-right: 2px solid #6EB5E8;">
-      <h2>✨ Sobre mim</h2>
-      <p>Oi! Sou uma desenvolvedora Giovanna <strong>Full Stack</strong> que ama transformar códigos em experiências visuais bonitas, leves e funcionais.<br>
-      🌱 Apaixonada pelo mundo do Front-End, design e tecnologia.<br>
-      📚 Atualmente curso <strong>Desenvolvimento de Sistemas</strong>.<br>
-      🌸 Meu objetivo? Criar soluções que sejam tão funcionais quanto encantadoras.</p>
-
-      <h2>🎓 Minha Jornada</h2>
-      <ul>
-        <li>🎓 Técnica em <strong>Desenvolvimento de Sistemas</strong> (conclusão em breve)</li>
-        <li>💻 Estagiando como jovem aprendiz.</li>
-        <li>🚀 Criando projetos que unem criatividade e tecnologia.</li>
-      </ul>
-
-      <h2>🚀 Projetos em construção</h2>
-      <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-        <thead>
-          <tr style="background-color: #6EB5E8; color: white;">
-            <th>Projeto</th>
-            <th>Tecnologias</th>
-            <th>Status</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>Sistema de Controle</td><td>Python + SQLite</td><td>Em breve</td></tr>
-          <tr><td>App de Agendamentos</td><td>React Native</td><td>Em breve</td></tr>
-          <tr><td>Landing Page Encantadora</td><td>HTML + CSS + JS</td><td>Em breve</td></tr>
-          <tr><td>TCC</td><td>Python + Flask + SQL + HTML + CSS + Bootstrap + CRUD</td><td>Em breve</td></tr>
-        </tbody>
-      </table>
-    </td>
-
     <!-- Coluna Estatísticas -->
     <td width="50%" valign="top" align="center" style="padding-left: 20px;">
       <h2>📊 Meus stats</h2>
