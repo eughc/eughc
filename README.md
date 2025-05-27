@@ -20,8 +20,10 @@
 
 <br/>
   
-  <strong > 🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI) e pretendo ingressar em uma faculdade na área de tecnologia em breve.</strong>  
+  <strong > 🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI) </strong>  
 <p "> 💻 Desenvolvedora Full Stack com foco em Front-End. Tenho conhecimentos sólidos em tecnologias de back-end, mas é no desenvolvimento de interfaces intuitivas, acessíveis e bonitas que me sinto mais realizada.  </p>  
+<p>💼 Atualmente sou Jovem Aprendiz em uma empresa, uma oportunidade que consegui graças à recomendação dos meus professores.</p>
+
 <p> 🧠 Em constante evolução... </p>  
 
 📝 **Meu TCC:** Projeto em andamento... <!-- (https://link-do-projeto.com) --> — **Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios**
