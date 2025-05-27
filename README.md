@@ -20,7 +20,7 @@
 
 <br/>
   
-  <strong > 🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI) </strong>  
+  <strong > 🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI) e pretendo ingressar em uma faculdade na área de tecnologia em breve.</strong>  
 <p "> 💻 Desenvolvedora Full Stack com foco em Front-End. Tenho conhecimentos sólidos em tecnologias de back-end, mas é no desenvolvimento de interfaces intuitivas, acessíveis e bonitas que me sinto mais realizada.  </p>  
 <p> 🧠 Em constante evolução... </p>  
 
