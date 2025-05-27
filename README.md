@@ -1,4 +1,4 @@
-<h1 align="center">🦋Giovanna | Desenvolvedora Full Stack |17y  🦋</h1>
+<h1 align="center">Giovanna | Desenvolvedora Full Stack |17y </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-CDE8F6?style=for-the-badge&logo=html5&logoColor=white" />
@@ -12,16 +12,16 @@
 
 ---
 
-## 🌊 Sobre mim
+## ✨ Sobre mim
 
-✨ Oi! Sou uma desenvolvedora Giovanna **Full Stack** que ama transformar códigos em experiências visuais bonitas, leves e funcionais.  
+ Oi! Sou uma desenvolvedora Giovanna **Full Stack** que ama transformar códigos em experiências visuais bonitas, leves e funcionais.  
 🌱 Apaixonada pelo mundo do Front-End, design e tecnologia.  
 📚 Atualmente curso **Desenvolvimento de Sistemas**.  
 🌸 Meu objetivo? Criar soluções que sejam tão funcionais quanto encantadoras.
 
 ---
 
-## 🌱 Minha Jornada
+## 🎓  Minha Jornada
 
 - 🎓 Técnica em **Desenvolvimento de Sistemas** (conclusão em breve)  
 - 💻 Estagiando como jovem aprendiz.  
@@ -29,13 +29,14 @@
 
 ---
 
-## ✨ Projetos em construção
+## 🚀 Projetos em construção
 
 | Projeto                     | Tecnologias               | Status     |
 |-----------------------------|---------------------------|------------|
 | Sistema de Controle         | Python + SQLite           | Em breve   |
 | App de Agendamentos         | React Native              | Em breve   |
 | Landing Page Encantadora    | HTML + CSS + JS           | Em breve   |
+| TCC                         | Python + Flask + SQL + HTML + CSS + Bootstrap + CRUD | Em breve   |
 
 ---
 
