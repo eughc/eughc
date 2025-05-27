@@ -1,18 +1,22 @@
 <h1 align="center"><i> Giovanna | Desenvolvedora Full Stack | 17y <i></h1>
+<br/>
+
+<!-- Tecnologias com apenas ícones -->
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-CDE8F6?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-BEE3F8?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-A7D8F0?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-9BD3F4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-7FC6F2?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-6FB8E8?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-5AA6DA?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-4F90D9?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-81C8F2?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-6EB5E8?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-92CCF3?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" alt="Mobile" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" alt="Expo" />
 </p>
 
+<br/>
   
   <strong align="center"> 🎓 Cursando o último ano de Desenvolvimento de Sistemas (SENAI) </strong>  
 <p "> 💻 Desenvolvedora Full Stack com foco em Front-End. Tenho conhecimentos sólidos em tecnologias de back-end, mas é no desenvolvimento de interfaces intuitivas, acessíveis e bonitas que me sinto mais realizada.  </p>  
