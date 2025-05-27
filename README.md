@@ -34,7 +34,7 @@
 <br/>
 
 <!-- TCC -->
-## 📝 Meu TCC (Trabalho de Conclusão de Curso) – SENAI
+**📝 Meu TCC (Trabalho de Conclusão de Curso) – SENAI**
 
 **Projeto:** Sistema Web para Gestão de Estagiários – *em andamento*  
 **Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
