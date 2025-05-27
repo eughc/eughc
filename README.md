@@ -1,4 +1,4 @@
-<h1 align="center">🦋**Giovanna** Desenvolvedora Full Stack  🦋</h1>
+<h1 align="center">🦋Giovanna | Desenvolvedora Full Stack |17y  🦋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-CDE8F6?style=for-the-badge&logo=html5&logoColor=white" />
