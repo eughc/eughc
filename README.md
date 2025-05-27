@@ -24,10 +24,8 @@
 <p "> 💻 Desenvolvedora Full Stack com foco em Front-End. Tenho conhecimentos sólidos em tecnologias de back-end, mas é no desenvolvimento de interfaces intuitivas, acessíveis e bonitas que me sinto mais realizada.  </p>  
 <p> 🧠 Em constante evolução... </p>  
 
-  📝 <strong>Meu TCC:</strong>  
+📝 **Meu TCC:** [Projeto em andamento](https://link-do-projeto.com) — **Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios**
 
-  <em>[Espaço reservado para link do projeto que está em andamento...] <p>Sistema Web para Gestão de Estagiários: Frequência, Avaliações e Relatórios</p> </em>    
-<p align="center"><i>✨ “During your life, never stop dreaming. No one can take away your dreams.” – <strong>Tupac Shakur</strong> </i></p>
 
 
 <p ><i>🫧 Obrigada por passar por aqui. Que seus sonhos se desfrutem, se espalhem e floresçam. 🫧</i></p>
