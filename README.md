@@ -29,7 +29,7 @@
 
 **📝 Meu TCC (Trabalho de Conclusão de Curso)**  
 **Projeto:** Sistema de Monitoramento de Temperatura Veicular – *em andamento*  
-**Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
+**Funcionalidades:** Sistema de monitoramento de temperatura veicular que gera alertas no celular.
 **Link:** Em breve...
 
 <br>
