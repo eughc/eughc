@@ -28,7 +28,7 @@
 <p >🧠 Em constante evolução...</p>
 
 **📝 Meu TCC (Trabalho de Conclusão de Curso)**  
-**Projeto:** Sistema Web para Gestão – *em andamento*  
+**Projeto:** Sistema de Monitoramento de Temperatura Veicular – *em andamento*  
 **Funcionalidades:** Controle de frequência, avaliações e geração de relatórios  
 **Link:** Em breve...
 
