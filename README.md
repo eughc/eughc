@@ -1,5 +1,5 @@
 <h1 align="center">
-  <i>Giovanna | Desenvolvedora Full Stacks</i>
+  <i>Giovanna</i>
 </h1>
 
 <br/>
