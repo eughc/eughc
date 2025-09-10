@@ -27,7 +27,8 @@
 
 
 **📝 Meu TCC (Trabalho de Conclusão de Curso)**  
-**Projeto:** *em andamento*  
+![Status do Projeto](https://img.shields.io/badge/status-em-andamentp-brightgreen)
+
 **Funcionalidades:** 
 
 **Link:** Em breve...
@@ -36,3 +37,4 @@
 
 <p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
 <p align="center"><i>"During your life, never stop dreaming. No one can take away your dreams." — <strong>Tupac Shakur</strong></i></p>
+
