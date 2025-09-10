@@ -12,15 +12,14 @@
 
 ## Sobre mim
 <p>
-  Estudante técnico no SENAI, apaixonada por **desenvolvimento mobile e frontend**.  
-
-   <a href="https://github.com/eughc">Meu GitHub</a>  
+  Estudante técnico no SENAI, apaixonada por desenvolvimento mobile e frontend.  
 </p>
-
+  <a href="https://github.com/eughc">Meu GitHub</a>  
 
 
 ## TCC 
 - Projeto de **[App Mobile Expo /em andamento](link)**  
 - Funcionalidade principal: **[descrição da funcionalidade]**  
+
 
 
