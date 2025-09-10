@@ -1,4 +1,5 @@
-<h1 align="center">Giovanna</h1>
+<h1 align="center">Giovanna </h1>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS" />
@@ -10,13 +11,11 @@
 </p>
 
 ## Sobre mim
-* Estudante técnico no SENAI, apaixonada por **desenvolvimento mobile e frontend**.  |
-* <a href="https://github.com/eughc">GitHub</a> | 
-* 
-##  TCC 
-- Projeto de **[App Mobile Expo / em andamento](link)**  
+Estudante técnico no SENAI, apaixonada por **desenvolvimento mobile e frontend**.  
+### Contato
+ <a href="https://github.com/eughc">Meu GitHub</a>  
+
+## TCC 
+- Projeto de **[App Mobile Expo /em andamento](link)**  
 - Funcionalidade principal: **[descrição da funcionalidade]**  
-
-
-
 
