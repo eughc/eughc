@@ -1,10 +1,4 @@
 <h1 align="center">✨ [Seu Nome] ✨</h1>
-
-<p align="center">
-  <img src="URL_DA_SUA_FOTO_GITHUB" alt="[Seu Nome]" width="140" style="border-radius: 50%;" />
-</p>
-
-## 🌸 Tecnologias que uso
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS" />
@@ -15,17 +9,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="40" title="Expo" />
 </p>
 
-## 💖 Sobre mim
+## Sobre mim
 Estudante técnico no SENAI, apaixonada por **desenvolvimento mobile e frontend**.  
-Curiosa, organizada e sempre aprendendo novas tecnologias para criar **apps leves e bonitos**.
 
-## 📚 TCC em andamento
-- Projeto de **[App Mobile Expo / React Native](link)**  
+##  TCC 
+- Projeto de **[App Mobile Expo / em andamento](link)**  
 - Funcionalidade principal: **[descrição da funcionalidade]**  
 
-## 🔗 Meus links
+##  links
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin">LinkedIn 💌</a> | 
-  <a href="https://github.com/seu-usuario">GitHub 💻</a> | 
-  <a href="mailto:seuemail@email.com">E-mail ✉️</a>
+  <a href="https://github.com/eughc">GitHub</a> | 
+ 
 </p>
+
