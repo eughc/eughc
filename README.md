@@ -1,5 +1,5 @@
 <h1 align="center">
-  <i>Giovanna</i>
+  <i>Duda</i>
 </h1>
 
 <br/>
@@ -21,33 +21,18 @@
 
 <br/>
 
-<!-- Sobre mim -->
-<p ><strong>🎓 Cursando o último ano de Desenvolvimento de Sistemas</strong> (curso técnico)</p>
-<p>🌍 Aprendendo <strong>espanhol</strong>, <strong>italiano</strong> e <strong>inglês</strong>.<p>
-
-
-# **📝 Meu TCC (Trabalho de Conclusão de Curso)**
-
-![Status do Projeto](https://img.shields.io/badge/status-em-andamento-brightgreen)
-![Tecnologias](https://img.shields.io/badge/tecnologias-React%20Native%20|%20Expo%20|%20Arduino-blue)
-![Banco de Dados](https://img.shields.io/badge/banco-interno-orange)
+## 👩‍🎓 Sobre mim
+- Cursando o último ano de **Desenvolvimento de Sistemas (técnico)**  
+- Aprendendo **Espanhol**, **Italiano** e **Inglês**  
 
 ---
 
-## 🚀 Funcionalidades
-- Cadastro e login de usuários (local)  
-- Leitura de sensores de temperatura e umidade (Arduino)  
-- Alertas automáticos quando a temperatura ultrapassa limites  
-- Armazenamento de dados local para histórico  
-- Dashboard com visualização dos dados em tempo real  
+## 📝 Meu TCC (Trabalho de Conclusão de Curso)
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em-andamento-brightgreen" alt="Status do Projeto" />&nbsp;
+  <img src="https://img.shields.io/badge/tecnologias-React%20Native%20|%20Expo%20|%20Arduino-blue" alt="Tecnologias" />&nbsp;
+  <img src="https://img.shields.io/badge/banco-interno-orange" alt="Banco de Dados" />
+</p>
 
-## 🌐 Link do Projeto
-🔗 Em breve...
 
----
-
-## 💡 Observação
-<p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
-<p align="center"><i>"During your life, never stop dreaming. No one can take away your dreams." — <strong>Tupac Shakur</strong></i></p>
