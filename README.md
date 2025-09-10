@@ -26,15 +26,28 @@
 <p>🌍 Aprendendo <strong>espanhol</strong>, <strong>italiano</strong> e <strong>inglês</strong>.<p>
 
 
-**📝 Meu TCC (Trabalho de Conclusão de Curso)**  
-![Status do Projeto](https://img.shields.io/badge/status-em-andamentp-brightgreen)
+# **📝 Meu TCC (Trabalho de Conclusão de Curso)**
 
-**Funcionalidades:** 
+![Status do Projeto](https://img.shields.io/badge/status-em-andamento-brightgreen)
+![Tecnologias](https://img.shields.io/badge/tecnologias-React%20Native%20|%20Expo%20|%20Arduino-blue)
+![Banco de Dados](https://img.shields.io/badge/banco-interno-orange)
 
-**Link:** Em breve...
+---
 
-<br>
+## 🚀 Funcionalidades
+- Cadastro e login de usuários (local)  
+- Leitura de sensores de temperatura e umidade (Arduino)  
+- Alertas automáticos quando a temperatura ultrapassa limites  
+- Armazenamento de dados local para histórico  
+- Dashboard com visualização dos dados em tempo real  
 
+---
+
+## 🌐 Link do Projeto
+🔗 Em breve...
+
+---
+
+## 💡 Observação
 <p align="center"><i>🫧 Obrigada por passar por aqui. 🫧</i></p>
 <p align="center"><i>"During your life, never stop dreaming. No one can take away your dreams." — <strong>Tupac Shakur</strong></i></p>
-
