@@ -4,14 +4,6 @@
 
 <h2 align="center">Giovanna</h2>
 <p align="center">Desenvolvedora em formação | Mobile & Frontend</p>
-
-### 👋 Sobre mim
-🌸 Tenho 17 anos 
-📚 Estudante técnica no **SENAI**  
-💻 Apaixonada por **desenvolvimento mobile e frontend**  
-🚀 Sempre buscando aprender e evoluir  
-
-### 🛠 Tecnologias  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS" />
@@ -21,8 +13,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino" />
 </p>
 
+### 👋 Sobre mim
+🌸 Tenho 17 anos 
+📚 Estudante técnica no **SENAI**  
+💻 Apaixonada por **desenvolvimento mobile e frontend**  
+🚀 Sempre buscando aprender e evoluir  
+
 ### 📱 TCC
 Projeto em andamento: **App Mobile com Expo**  
 Funcionalidade principal: alerta de temperatura com SMS  
+
 
 
