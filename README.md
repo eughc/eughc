@@ -1,7 +1,4 @@
-<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <span>Giovanna</span>
-  <img src="https://i.pinimg.com/736x/13/9d/d8/139dd81f53015b4659ef8aa7cb97ec7b.jpg" width="35" title="Autista" style="border-radius: 50%;" />
-</h2>
+<h1 align="center">Giovanna</h1>
 
 <p align="center">Desenvolvedora em formação | Mobile & Frontend</p>
 <p align="center">
@@ -25,6 +22,7 @@
 ### 📱 TCC
 Projeto em andamento: **App Mobile com Expo**  
 Funcionalidade principal: alerta de temperatura com SMS  
+
 
 
 
