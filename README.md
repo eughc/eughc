@@ -1,22 +1,22 @@
-<!-- Foto de perfil -->
+<!-- Foto + Nome -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="180" style="border-radius: 50%;" alt="Foto Giovanna"/>
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="150" style="border-radius: 50%;" alt="Foto Giovanna"/>
 </p>
 
-<h2 align="center">🌸 Giovanna Simas 🌸</h2>
-<p align="center">✨ Desenvolvedora de software em formação ✨</p>
+<h2 align="center">✨ Giovanna Simas ✨</h2>
+<p align="center">Desenvolvedora em formação | Mobile & Frontend</p>
 
 ---
 
-### 👋 Oieee, seja bem-vindo(a)!
-- Meu nome é **Giovanna**, tenho 18 anos e moro em **Florianópolis - SC** 🌊  
-- Estudante técnica no **SENAI** 📚  
-- Apaixonada por **desenvolvimento mobile e frontend** 💻  
-- Sempre explorando novas tecnologias 🚀  
+### 👋 Sobre mim
+- 🌸 Tenho 18 anos e moro em **Florianópolis - SC**  
+- 📚 Estudante técnica no **SENAI**  
+- 💻 Apaixonada por **desenvolvimento mobile e frontend**  
+- 🚀 Sempre buscando aprender e evoluir  
 
 ---
 
-### 🛠 Tools I know  
+### 🛠 Tecnologias  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS" />
@@ -28,20 +28,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eughc&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=eughc&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eughc&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eughc&show_icons=true&theme=dracula&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 📱 TCC em andamento
-- 🚀 **App Mobile com Expo**  
+### 📱 TCC
+- 🚧 Projeto em andamento: **App Mobile com Expo**  
 - 🌡 Funcionalidade principal: alerta de temperatura com SMS  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Gif fofo"/>
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="250" alt="gif minimalista"/>
 </p>
