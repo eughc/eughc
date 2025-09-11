@@ -13,9 +13,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" title="React Native" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="40" title="Arduino" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Expo_logo_2017.svg" width="40" title="Expo" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtfghCwl_HDYMSeHrVZwaJb4Wnt5ZVo-ycA&s" width="40" title="Expo" />
 </p>
 
 
@@ -27,6 +26,7 @@
 ### 📱 TCC
 Projeto em andamento: **App Mobile com Expo**  
 Funcionalidade principal: alerta de temperatura com SMS  
+
 
 
 
