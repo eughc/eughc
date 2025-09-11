@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" title="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
-  <img src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" width="80" title="Expo" />
+  <img src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/icon.png" width="45" title="Expo" />
 </p>
 
 ### Sobre mim
@@ -22,6 +22,7 @@
 ### 📱 TCC
 Projeto em andamento: **App Mobile com Expo**  
 Funcionalidade principal: alerta de temperatura com SMS  
+
 
 
 
