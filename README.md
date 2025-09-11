@@ -1,6 +1,6 @@
 <h2 align="center">
   Giovanna 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Autism-awareness_puzzle_ribbon.svg" width="30" title="Autista" />
+    <img src="https://i.pinimg.com/736x/13/9d/d8/139dd81f53015b4659ef8aa7cb97ec7b.jpg" width="30" title="Autista" /> />
 </h2>
 <p align="center">Desenvolvedora em formação | Mobile & Frontend</p>
 <p align="center">
@@ -24,6 +24,7 @@
 ### 📱 TCC
 Projeto em andamento: **App Mobile com Expo**  
 Funcionalidade principal: alerta de temperatura com SMS  
+
 
 
 
