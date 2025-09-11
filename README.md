@@ -13,8 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino" />
 </p>
 
-### 👋 Sobre mim
-🌸 Tenho 17 anos 
+### Sobre mim
 📚 Estudante técnica no **SENAI**  
 💻 Apaixonada por **desenvolvimento mobile e frontend**  
 🚀 Sempre buscando aprender e evoluir  
@@ -22,6 +21,7 @@
 ### 📱 TCC
 Projeto em andamento: **App Mobile com Expo**  
 Funcionalidade principal: alerta de temperatura com SMS  
+
 
 
 
