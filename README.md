@@ -16,6 +16,7 @@
 
 ### Sobre mim
 📚 Estudante técnica no **SENAI** - **2024/2025**
+
 💻 Apaixonada por **desenvolvimento mobile e frontend**  
 🚀 Sempre buscando aprender e evoluir  
 🧩Superando meus limites
@@ -24,6 +25,12 @@
 Projeto em andamento: **App Mobile com Expo**  
 Funcionalidade principal: alerta de temperatura com SMS  
 
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 
 
