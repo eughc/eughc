@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou a GIOVANNA
 
 <p align="center">
-  <img src="https://seu-link-da-foto.jpg" alt="Foto da Giovanna" width="160" height="160" style="border-radius: 50%; border: 3px solid #7e57c2; object-fit: cover;" />
+  <img src="https://![Uploading A.png…]()
+" alt="Foto da Giovanna" width="160" height="160" style="border-radius: 50%; border: 3px solid #7e57c2; object-fit: cover;" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -38,6 +39,7 @@
 <blockquote style="max-width: 450px; font-style: italic; color: #777;">
   “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 </blockquote>
+
 
 
 
