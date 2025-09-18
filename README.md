@@ -35,28 +35,9 @@
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | |
 
----
-
 ## 📱 Projeto TCC - Trabalho de Conclusão de Curso
 
 > **App Mobile com Expo** (em andamento)  
 > Funcionalidade principal: alerta de temperatura via SMS 🔔
 
----
 
-## 📫 Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seunome" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@email.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seunome&style=flat-square&color=blue" alt="Profile views" />
-</p>
