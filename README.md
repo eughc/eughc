@@ -14,21 +14,19 @@
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
+## Sobre mim
 
-## 🚀 Sobre mim
-
-## 🚀 Sobre mim
-
-- 🎓 Estudante Técnica no **SENAI** _(2024/2025)_
-- 💻 Apaixonada por **Desenvolvimento Mobile** e **Frontend**
-- 🔥 Sempre buscando aprender, melhorar e superar desafios
-- 🧩 Superando meus limites
+🎓 Estudante Técnica no **SENAI** _(2024/2025)_
+💻 Apaixonada por **Desenvolvimento Mobile** e **Frontend**
+🔥 Sempre buscando aprender, melhorar e superar desafios
+🧩 Superando meus limites
 
 
 ## 📱 Projeto TCC - Trabalho de Conclusão de Curso
 
 > **App Mobile com Expo** (em andamento)  
 > Funcionalidade principal: alerta de temperatura via SMS 🔔
+
 
 
 
