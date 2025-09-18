@@ -18,7 +18,7 @@
 📚 Estudante técnica no **SENAI** - **2024/2025**
 💻 Apaixonada por **desenvolvimento mobile e frontend**  
 🚀 Sempre buscando aprender e evoluir  
-🧩♾️ Superando meus limites
+🧩Superando meus limites
 
 ### TCC - Trabalho de Conclusão de curso 
 Projeto em andamento: **App Mobile com Expo**  
