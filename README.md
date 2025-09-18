@@ -15,13 +15,15 @@
 
 
 ### Sobre mim
-📚 Estudante técnica no **SENAI**  
+📚 Estudante técnica no **SENAI** - **2024/2025**
 💻 Apaixonada por **desenvolvimento mobile e frontend**  
 🚀 Sempre buscando aprender e evoluir  
+🧩♾️ Superando meus limites
 
-### 📱 TCC
+### TCC - Trabalho de Conclusão de curso 
 Projeto em andamento: **App Mobile com Expo**  
 Funcionalidade principal: alerta de temperatura com SMS  
+
 
 
 
