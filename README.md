@@ -15,13 +15,13 @@
 ## 👩‍💻 Sobre Mim
 
 🎓 Estudante técnica no **SENAI (2024/2025)**  
-💗 Apaixonada por **Mobile & Frontend Development**  
-🧠 Curiosa, dedicada e sempre aprendendo algo novo!
+💗 Apaixonada por **Desenvolvimento Mobile** e **Frontend**  
+🚀 Sempre em busca de aprender e evoluir como desenvolvedora  
+✨ Curiosa, focada e determinada
 
 ## 📱 Projeto TCC - SENAI
 
-**Aplicativo Mobile com Expo**  
-📲 Envio de alertas SMS com notificações de temperatura em tempo real.
+**📲 Aplicativo Mobile com Expo**  
+Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.
 
-🔗 [TCC EM ANDAMENTO...](https://link-do-seu-projeto.com)
-
+🔗 [Veja o projeto aqui](https://link-do-seu-projeto.com) *(em andamento)*  
