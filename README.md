@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
----
 
 ## 🎓 Sobre Mim
 
@@ -24,20 +23,17 @@
 - Apaixonada por **Mobile & Frontend Development**
 - Curiosa e dedicada, sempre buscando evoluir 🚀
 
----
 
 ## 📱 Projeto TCC
 
 **App Mobile com Expo**  
 💡 Envio de alertas SMS com notificações de temperatura.
 
----
+
 
 ## 📬 Me encontre aqui
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuusuario)
 
----
 
 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
+
