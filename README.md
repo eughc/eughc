@@ -1,7 +1,7 @@
 # 👩‍💻 Desenvolvedora em Formação
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif" width="130" alt="coding gif" style="border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif" width="140" alt="coding gif" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.4);" />
 </p>
 
 ---
@@ -24,20 +24,20 @@
 
 ## ✨ Sobre Mim
 
-<p style="max-width: 450px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6B7280; text-align: center;">
-  Estudante técnica no <strong>SENAI (2024/2025)</strong><br />
-  Apaixonada por <strong>Mobile & Frontend Development</strong><br />
-  Curiosa, dedicada e sempre evoluindo 🚀
+<p align="center" style="max-width: 480px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555555; line-height: 1.5;">
+  🎓 Estudante técnica no <strong>SENAI (2024/2025)</strong><br />
+  💻 Apaixonada por <strong>Mobile & Frontend Development</strong><br />
+  🌱 Curiosa, dedicada e sempre evoluindo 🚀
 </p>
 
 ---
 
 ## 📱 Projeto TCC
 
-<p style="max-width: 450px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #F3E8FF; padding: 18px; border-radius: 12px; color: #7C3AED; text-align: center;">
-  <strong>App Mobile com Expo</strong><br />
-  💡 Envio de alertas SMS com notificações de temperatura.
-</p>
+<div align="center" style="max-width: 480px; margin: auto; background: #F3E8FF; border-radius: 16px; padding: 20px; color: #7C3AED; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600;">
+  <p><strong>App Mobile com Expo</strong></p>
+  <p>💡 Envio de alertas SMS com notificações de temperatura.</p>
+</div>
 
 ---
 
@@ -51,6 +51,6 @@
 
 ---
 
-<blockquote style="max-width: 450px; margin: auto; font-style: italic; color: #9CA3AF; text-align: center;">
-  “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+<blockquote style="max-width: 480px; margin: 0 auto; font-style: italic; color: #9CA3AF; text-align: center; border-left: 4px solid #7C3AED; padding-left: 16px;">
+  “Code is like humor. When you have to explain it, it’s bad.”<br /> — Cory House
 </blockquote>
