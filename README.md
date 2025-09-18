@@ -1,6 +1,8 @@
 # 👩‍💻 Desenvolvedora em Formação
-
----
+<!-- HEADER COM GIF ANIMADO -->
+<p align="center">
+  <img src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif" width="150" alt="coding gif" />
+</p>
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -36,4 +38,3 @@
 
 
 *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
-
