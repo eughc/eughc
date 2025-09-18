@@ -1,4 +1,5 @@
 # 👩‍💻 Desenvolvedora em Formação
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -13,17 +14,24 @@
 
 ### 🧠 Sobre mim
 
-🎓 Estudante técnica no **SENAI (2024/2025)**
-💻 Apaixonada por **Mobile & Frontend**
-🚀 Sempre aprendendo e evoluindo
+🎓 Estudante técnica no **SENAI (2024/2025)**  
+💻 Apaixonada por **Mobile & Frontend Development**  
+🚀 Sempre aprendendo e evoluindo  
 
-
+---
 
 ### 📱 Projeto TCC
 
 **App Mobile com Expo**  
 🔔 Funcionalidade: alerta de temperatura via SMS
 
+---
 
+### 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/seuperfil)](https://linkedin.com/in/seuperfil)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com/seuusuario)](https://github.com/seuusuario)
 
+---
+
+Obrigado por visitar meu perfil! 🚀
