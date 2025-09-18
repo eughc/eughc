@@ -15,9 +15,9 @@
 ## ✨ Sobre Mim
 
 <p style="max-width: 450px; color: #444; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
- 🎓 Estudante técnica no <strong>SENAI (2024/2025)</strong><br />
-  Apaixonada por <strong>Mobile & Frontend Development</strong><br />
-   🧩 Curiosa, dedicada e sempre evoluindo 
+🎓 Estudante técnica no <strong>SENAI (2024/2025)</strong><br />
+💗Apaixonada por <strong>Mobile & Frontend Development</strong><br />
+🧩 Curiosa, dedicada e sempre evoluindo 
 </p>
 
 
@@ -35,6 +35,7 @@
 <blockquote style="max-width: 450px; font-style: italic; color: #777;">
   “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 </blockquote>
+
 
 
 
