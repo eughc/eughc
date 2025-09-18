@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a GIOVANNA
+# 👋 Olá! Eu sou a **Giovanna**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -12,42 +12,27 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-##  Sobre Mim
+---
 
-<p style="max-width: 450px; color: #444; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-🎓 Estudante técnica no <strong>SENAI (2024/2025)</strong><br />
-💗Apaixonada por <strong>Mobile & Frontend Development</strong><br />
-🧩 Curiosa, dedicada e sempre evoluindo 
-</p>
+## 👩‍💻 Sobre Mim
 
+🎓 Estudante técnica no **SENAI (2024/2025)**  
+💗 Apaixonada por **Mobile & Frontend Development**  
+🧠 Curiosa, dedicada e sempre aprendendo algo novo!
 
-##  Projeto TCC - SENAI
+---
 
-<p style="max-width: 450px; background-color: #EDE7F6; padding: 15px; border-radius: 10px; color: #5E35B1; font-weight: 600;">
-  App Mobile com Expo<br />
-  💡 Envio de alertas SMS com notificações de temperatura.
-</p>
+## 📱 Projeto TCC - SENAI
 
+> **Aplicativo Mobile com Expo**  
+> 📲 Envio de alertas SMS com notificações de temperatura em tempo real.
 
+---
 
+## 📫 Onde me encontrar
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-<blockquote style="max-width: 450px; font-style: italic; color: #777;">
-  “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-</blockquote>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
