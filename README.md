@@ -1,12 +1,4 @@
-# 👩‍💻 Desenvolvedora em Formação
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif" width="140" alt="coding gif" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.4);" />
-</p>
-
----
-
-## 🌿 Tecnologias & Ferramentas
+# 👩‍💻 Giovanna C. 
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -49,3 +41,4 @@
 <blockquote style="max-width: 450px; font-style: italic; color: #777;">
   “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 </blockquote>
+
