@@ -28,10 +28,9 @@
   💡 Envio de alertas SMS com notificações de temperatura.
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/seuusuario" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://seu-link-da-foto.jpg" alt="Foto da Giovanna" width="160" height="160" style="border-radius: 50%; border: 3px solid #7e57c2; object-fit: cover;" />
 </p>
 
 
@@ -39,6 +38,7 @@
 <blockquote style="max-width: 450px; font-style: italic; color: #777;">
   “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 </blockquote>
+
 
 
 
