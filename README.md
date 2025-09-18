@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-## ✨ Sobre Mim
+##  Sobre Mim
 
 <p style="max-width: 450px; color: #444; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 🎓 Estudante técnica no <strong>SENAI (2024/2025)</strong><br />
@@ -21,7 +21,7 @@
 </p>
 
 
-## 📱 Projeto TCC
+##  Projeto TCC - SENAI
 
 <p style="max-width: 450px; background-color: #EDE7F6; padding: 15px; border-radius: 10px; color: #5E35B1; font-weight: 600;">
   App Mobile com Expo<br />
@@ -35,6 +35,7 @@
 <blockquote style="max-width: 450px; font-style: italic; color: #777;">
   “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 </blockquote>
+
 
 
 
