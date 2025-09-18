@@ -20,26 +20,22 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
----
 
 ## ✨ Sobre Mim
 
-<p align="center" style="max-width: 480px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #555555; line-height: 1.5;">
-  🎓 Estudante técnica no <strong>SENAI (2024/2025)</strong><br />
-  💻 Apaixonada por <strong>Mobile & Frontend Development</strong><br />
-  🌱 Curiosa, dedicada e sempre evoluindo 🚀
+<p style="max-width: 450px; color: #444; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  Estudante técnica no <strong>SENAI (2024/2025)</strong><br />
+  Apaixonada por <strong>Mobile & Frontend Development</strong><br />
+  Curiosa, dedicada e sempre evoluindo 🚀
 </p>
 
----
 
 ## 📱 Projeto TCC
 
-<div align="center" style="max-width: 480px; margin: auto; background: #F3E8FF; border-radius: 16px; padding: 20px; color: #7C3AED; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600;">
-  <p><strong>App Mobile com Expo</strong></p>
-  <p>💡 Envio de alertas SMS com notificações de temperatura.</p>
-</div>
-
----
+<p style="max-width: 450px; background-color: #EDE7F6; padding: 15px; border-radius: 10px; color: #5E35B1; font-weight: 600;">
+  App Mobile com Expo<br />
+  💡 Envio de alertas SMS com notificações de temperatura.
+</p>
 
 ## 📬 Me encontre aqui
 
@@ -49,8 +45,7 @@
   </a>
 </p>
 
----
 
-<blockquote style="max-width: 480px; margin: 0 auto; font-style: italic; color: #9CA3AF; text-align: center; border-left: 4px solid #7C3AED; padding-left: 16px;">
-  “Code is like humor. When you have to explain it, it’s bad.”<br /> — Cory House
+<blockquote style="max-width: 450px; font-style: italic; color: #777;">
+  “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 </blockquote>
