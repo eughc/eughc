@@ -12,20 +12,16 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-
-
 ## 👩‍💻 Sobre Mim
 
 🎓 Estudante técnica no **SENAI (2024/2025)**  
 💗 Apaixonada por **Mobile & Frontend Development**  
 🧠 Curiosa, dedicada e sempre aprendendo algo novo!
 
-
 ## 📱 Projeto TCC - SENAI
 
-> **Aplicativo Mobile com Expo**  
-> 📲 Envio de alertas SMS com notificações de temperatura em tempo real.
+**Aplicativo Mobile com Expo**  
+📲 Envio de alertas SMS com notificações de temperatura em tempo real.
 
-
-
+🔗 [TCC EM ANDAMENTO...](https://link-do-seu-projeto.com)
 
