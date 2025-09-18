@@ -17,16 +17,19 @@
 
 ## 🚀 Sobre mim
 
+## 🚀 Sobre mim
+
 - 🎓 Estudante Técnica no **SENAI** _(2024/2025)_
 - 💻 Apaixonada por **Desenvolvimento Mobile** e **Frontend**
 - 🔥 Sempre buscando aprender, melhorar e superar desafios
-- 🌱 Em constante evolução, focada em crescimento pessoal e técnico
+- 🧩 Superando meus limites
 
 
 ## 📱 Projeto TCC - Trabalho de Conclusão de Curso
 
 > **App Mobile com Expo** (em andamento)  
 > Funcionalidade principal: alerta de temperatura via SMS 🔔
+
 
 
 
