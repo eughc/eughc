@@ -1,4 +1,3 @@
-# 👋 Olá! Eu sou a **Giovanna**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -25,5 +24,6 @@
 Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.
 
 🔗 [Veja o projeto aqui](https://link-do-seu-projeto.com) **(em andamento)**  
+
 
 
