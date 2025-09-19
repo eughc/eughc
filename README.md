@@ -3,7 +3,6 @@
 🎓 Estudante técnica no **SENAI (2024/2025)**  
 💗 Apaixonada por **Desenvolvimento Mobile** e **Frontend**  
 🚀 Sempre em busca de aprender e evoluir como desenvolvedora  
-🧩 **TEA** - Transtorno do Espectro Autista
 
 ## Projeto TCC - SENAI
 
@@ -24,5 +23,6 @@ Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
+
 
 
