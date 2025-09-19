@@ -17,7 +17,7 @@
 🎓 Estudante técnica no **SENAI (2024/2025)**  
 💗 Apaixonada por **Desenvolvimento Mobile** e **Frontend**  
 🚀 Sempre em busca de aprender e evoluir como desenvolvedora  
-✨ Curiosa, focada e determinada
+🧩 **TEA** - Transtorno do Espectro Autista
 
 ## 📱 Projeto TCC - SENAI
 
@@ -25,4 +25,5 @@
 Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.
 
 🔗 [Veja o projeto aqui](https://link-do-seu-projeto.com) **(em andamento)**  
+
 
