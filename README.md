@@ -10,11 +10,7 @@
 
 **📲 Aplicativo Mobile com Expo**  
 Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.
-
-🔗 [Veja o projeto aqui](https://link-do-seu-projeto.com) **(em andamento)**  
-
-
-
+🔗 [Veja o projeto aqui](https://link-do-seu-projeto.com) **(em andamento)**
 
 
 <p align="center">
