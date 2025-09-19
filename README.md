@@ -12,17 +12,18 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
-## 👩‍💻 Sobre Mim
+## Sobre Mim
 
 🎓 Estudante técnica no **SENAI (2024/2025)**  
 💗 Apaixonada por **Desenvolvimento Mobile** e **Frontend**  
 🚀 Sempre em busca de aprender e evoluir como desenvolvedora  
 🧩 Transtorno do Espectro Autista (TEA)
-## 📱 Projeto TCC - SENAI
+
+## Projeto TCC - SENAI
 
 **📲 Aplicativo Mobile com Expo**  
 Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.
-
 🔗 [Veja o projeto aqui](https://link-do-seu-projeto.com) *(em andamento)*  
+
 
 
