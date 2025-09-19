@@ -1,4 +1,3 @@
-
 ## 👩‍💻 Sobre Mim
 
 🎓 Estudante técnica no **SENAI (2024/2025)**  
@@ -9,7 +8,7 @@
 ## 📱 Projeto TCC - SENAI
 
 **📲 Aplicativo Mobile com Expo**  
-Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.
+Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.  
 🔗 [Veja o projeto aqui](https://link-do-seu-projeto.com) **(em andamento)**
 
 
@@ -24,3 +23,5 @@ Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
+
+
