@@ -22,7 +22,7 @@
 ## Projeto TCC - SENAI
 
 **📲 Aplicativo Mobile com Expo**  
-> Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.
+ Sistema de monitoramento de temperatura com **envio de alertas via SMS em tempo real**.
 🔗 [Veja o projeto aqui](https://link-do-seu-projeto.com) *(em andamento)*  
 
 
